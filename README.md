@@ -3,8 +3,8 @@
 System for Telementoring with Augmented Reality. Mentor subsystem.
 
 * Homepage: <https://engineering.purdue.edu/starproj/>
-* Mentee subsystem: <https://github.com/practisebody/STAR>
-* STAR Controller App: <https://www.github.com/practisebody/STARController_UWP>
+* Mentee subsystem: <https://github.com/purdue-isat/STAR/tree/master/STAR_Mentee>
+* STAR Controller App: <https://github.com/purdue-isat/STAR/tree/master/STAR_Controller>
 
 ## Installing
 
@@ -50,7 +50,7 @@ It is not recommended to compile from scratch. Follow the steps below when neces
 ### Getting Started
 
 1. Download or "git clone" this repository
-	git clone https://github.com/edkazar/MentorSystemUWPWebRTC.git
+	git clone https://github.com/purdue-isat/STAR
 2. Build Visual Studio project by Unity
 	1. Use Unity to open the project. *Note: The first time to open the project may take a while load all the files*
 	2. Open "Scenes/MentorSystemWebRTC" from project window
